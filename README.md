@@ -27,7 +27,7 @@
 
 <br>
 <br><br>
-<Strong>📧Email📧</Strong><br>dudgns3781@gmail.com<br>
+<Strong align= "center">📧Email📧</Strong><br>dudgns3781@gmail.com<br>
 
 </p>
 
