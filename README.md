@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-<Strong >Problem Solving</Strong><br>dudgns3781@gmail.com<br>
+<Strong >Problem Solving</Strong>
 
 [![코드트리|실력진단-dudgns3781](https://banner.codetree.ai/v1/banner/dudgns3781)](https://www.codetree.ai/profiles/dudgns3781)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgns3781)](https://solved.ac/dudgns3781/)
