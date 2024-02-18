@@ -34,6 +34,6 @@
 <br>
 
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dudgns3781)](https://solved.ac/dudgns3781)<br/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgns3781)](https://solved.ac/dudgns3781)
     
 </div>
